@@ -12,7 +12,8 @@ What is the average price for a four-bedroom house sold in each year rounded to 
 2016: 296,050.24
 2017: 296,576.69
 
-What is the average price of a home for each year the home was built that has 3 bedrooms and 3 bathrooms rounded to two decimal places?
+What is the average price of a home for each year the home was built that has 3 bedrooms and 3 bathrooms rounded to two decimal places? **
+
 2010: 292,859.62
 2011: 291,117.47
 2012: 293,683.19
@@ -22,7 +23,8 @@ What is the average price of a home for each year the home was built that has 3 
 2016: 290,555.07
 2017: 292,676.79
 
-What is the average price of a home for each year built that has 3 bedrooms, 3 bathrooms, with two floors, and are greater than or equal to 2,000 square feet rounded to two decimal places?
+What is the average price of a home for each year built that has 3 bedrooms, 3 bathrooms, with two floors, and are greater than or equal to 2,000 square feet rounded to two decimal places? **
+
 2010: 285,010.22
 2011: 276,553.81
 2012: 307,539.97
@@ -32,7 +34,8 @@ What is the average price of a home for each year built that has 3 bedrooms, 3 b
 2016: 293,965.10
 2017: 280,317.58
 
-What is the "view" rating for the average price of a home, rounded to two decimal places, where the homes are greater than or equal to $350,000?
+What is the "view" rating for the average price of a home, rounded to two decimal places, where the homes are greater than or equal to $350,000?**
+
 0: 403,848.51
 1: 401,044.25
 10: 401,868.43
